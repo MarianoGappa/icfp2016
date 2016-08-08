@@ -15,7 +15,7 @@ A valiant-ish attempt at ICFP 2016
 
 ```
 $ go build .
-./icfp2016 --problem test_problem.txt --solution test_solution.txt
+$ ./icfp2016 --problem test_problem.txt --solution test_solution.txt
 ```
 (both arguments are optional, but if you put nothing it does nothing :P)
 
