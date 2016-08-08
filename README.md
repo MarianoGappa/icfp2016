@@ -1,5 +1,5 @@
 # ICFP 2016
-A valiant attempt at ICFP 2016
+A valiant-ish attempt at ICFP 2016
 
 [Log in](http://2016sv.icfpcontest.org/)
 
