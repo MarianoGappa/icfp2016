@@ -1,11 +1,15 @@
-# icfp2016
+# ICFP 2016
 A valiant attempt at ICFP 2016
 
 [Log in](http://2016sv.icfpcontest.org/)
+
 [Leaderboard](http://2016sv.icfpcontest.org/leaderboard)
+
 [Blog, rules, news](http://icfpc2016.blogspot.com/)
 
-Made as part of the Movio team: [full Movio repo](https://bitbucket.org/moviohq/icfp2016/)
+## Made as part of the Movio team 
+
+[Full Movio Repo](https://bitbucket.org/moviohq/icfp2016/)
 
 ## Running (requires Go)
 
